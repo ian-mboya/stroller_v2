@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "179634384652",
+    "project_id": "stroller-fb9a8",
+    "storage_bucket": "stroller-fb9a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179634384652:android:35fa9df23ddd6c77d22329",
+        "android_client_info": {
+          "package_name": "com.iankwemboyasapplication.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179634384652-3fs0t4ea4r64bahre6so3n5d8hodgvtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Fcz5lDfjk02wAkNi5LM9aRzPdwfYrW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179634384652-3fs0t4ea4r64bahre6so3n5d8hodgvtc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "179634384652-t640k3064mt3h365enqinsrmp39o35nb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iankwemboyasapplication.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

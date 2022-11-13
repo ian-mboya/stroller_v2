@@ -1,0 +1,37 @@
+name: ian_kwe_mboya_s_application4
+description: A new Flutter project.
+version: 1.0.0+1
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+dependencies:
+  cached_network_image: ^3.2.1
+  connectivity_plus: ^2.3.6
+  firebase_auth: ^4.1.2
+  flutter:
+    sdk: flutter
+  flutter_svg: ^0.22.0
+  get: ^4.6.5
+  google_sign_in: ^5.0.7
+  images_picker: ^1.2.11
+  intl: ^0.17.0
+  outline_gradient_button: ^2.0.0+1
+  permission_handler: ^10.0.0
+  shared_preferences: ^2.0.15
+  url_launcher: 6.0.20
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/PoppinsSemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/PoppinsRegular.ttf
+          weight: 400
+        - asset: assets/fonts/PoppinsItalic.ttf
+          weight: 400
